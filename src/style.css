@@ -1,0 +1,6 @@
+#root {
+  display: grid;
+  grid-template-columns: 1fr;
+  height: 100vh;
+  border: 1px solid gainsboro;
+}
