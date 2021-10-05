@@ -1,5 +1,10 @@
 {
   "dependencies": {
     "monaco-editor": "0.28.0"
+  },
+  "devDependencies": {
+    "monaco-editor-webpack-plugin": "4.2.0",
+    "webpack": "5.57.0",
+    "webpack-cli": "4.8.0"
   }
 }
